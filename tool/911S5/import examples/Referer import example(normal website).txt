@@ -1,0 +1,2 @@
+google.com{||}<a target="_blank" href="http://whatsmyreferer.com">Click Me</a>
+qq.com{||}<a target="_blank" href="http://whatsmyreferer.com">Click Me</a>
